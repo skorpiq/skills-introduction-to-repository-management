@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @skorpiq
+/src/backend/database.py      @skorpiq
+/src/backend/routers/auth.py  @skorpiq
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @skorpiq
